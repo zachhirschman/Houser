@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.header{
+    position: fixed;
+    height:83px;
+    width:100%;
+    background-color: #519872;
+    display:flex;
+}
+
+.Houser{
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    margin-left: 20px;
+}
+.logo{
+    height:35px;
+    width:42px;
+    margin-left: 15px;
+    margin-top: 20px;
+}

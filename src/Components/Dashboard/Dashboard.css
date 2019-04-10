@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+.addProperty{
+    display:inline-block;
+    
+}
+.Dashboard{
+    width:60%;
+    height:100%;
+    background-color: #E5F4EC;
+    padding:15px;
+}
+.listings{
+    margin-top:70px;
+}
+.title{
+    margin-top:80px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    color: #3B5249;
+    
+}
+.line{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #3B5249;
+    margin: 1em 0;
+    padding: 0;
+}
+.homeListings{
+    font-family: 'Open Sans', sans-serif;
+    margin-left:10px;
+}
